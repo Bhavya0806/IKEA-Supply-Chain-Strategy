@@ -1,5 +1,6 @@
 # IKEA-Supply-Chain-Strategy
 IKEA's supply chain strategy ppt
+
 For the assessment, students are required to examine the supply chain of an organization (chosen by individual students), identifying logistics and supply chain issues inherent in their existing business operations and supply chain model. 
 
 To accomplish this task, students should scrutinize the organization's operations and create a poster (using PowerPoint) to visually represent and analyse their supply network, incorporating pertinent concepts covered in the lectures. Additionally, students are expected to pinpoint the challenges confronting the operations manager, considering the organization's business model and its unique supply chain characteristics.
